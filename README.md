@@ -1,5 +1,5 @@
-# Intro
+# Welcome
 
-This is a repotest for a blog
+[# Rendering the depth in unity](pages/depth.md)
 
-[Rendering the depth buffer in unity](pages/depth.md)
+![](/pages/imgs/depth_example.png)
