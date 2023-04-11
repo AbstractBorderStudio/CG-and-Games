@@ -1,15 +1,5 @@
 # Welcome
 
+Ih, I'm Dan and here I'll post updates on my journey learining Computer graphics and game developement!
+
 [# Rendering the depth in unity](pages/depth.md)
-
-![](/pages/imgs/depth_example.png)
-
-
-math
-
-$$
-\begin{bmatrix}
-a&b&c\\
-b&c&a
-\end{bmatrix}
-$$
