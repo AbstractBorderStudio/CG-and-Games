@@ -1,1 +1,3 @@
-# Main page
+# Intro
+
+This is a repotest for a blog
