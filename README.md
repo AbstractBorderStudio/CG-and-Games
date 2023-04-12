@@ -8,4 +8,4 @@ subtitle: Here you'll find all the ways to get in touch with me
 cover-img: "_posts/imgs/depth_example.png"
 ---
 
-[Test](./_posts/depth.md)
+[Test]("_posts/depth.md")
